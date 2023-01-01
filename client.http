@@ -1,0 +1,6 @@
+POST localhost:8010/images-search-engine/images/search
+Content-Type: application/json
+
+{
+  "query": "tiger"
+}
